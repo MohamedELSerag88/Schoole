@@ -1,6 +1,6 @@
-# Fatura Task
+# Schoole Task
 
-### simple Authorization module , roles and permissions services
+### simple Schoole And student wit email task
 
 Steps for Run project
 
